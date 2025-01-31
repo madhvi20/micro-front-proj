@@ -1,1 +1,1 @@
-export { default as MessageListing } from './lib/MessageListing';
+export { default as MessageListing } from './lib/messageListing';
