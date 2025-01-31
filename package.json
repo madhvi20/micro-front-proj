@@ -2,7 +2,7 @@
   "name": "@microfrontend-demo/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": { "build": "vite build"},
+  "scripts": {  },
   "private": true,
   "devDependencies": {
     "@babel/core": "^7.14.5",
