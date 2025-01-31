@@ -24,9 +24,12 @@ const prodConfig: ModuleFederationConfig = {
    *   ['app2', 'http://example.com/path/to/app2/remoteEntry.js'],
    * ]
    */
+
   remotes: [
     ['chat', 'http://localhost:4201/remoteEntry.ts'],
     ['email', 'http://localhost:4202/remoteEntry.ts'],
+    // ['chat', 'https://chat.vercel.app/remoteEntry.js'],
+    // ['email', 'https://email.vercel.app/remoteEntry.js'],
   ],
 };
 
