@@ -1,0 +1,15 @@
+README.md
+chat
+dist
+email
+eslint.config.js
+file_names.txt
+host
+jest.config.ts
+jest.preset.js
+libs
+node_modules
+nx.json
+package-lock.json
+package.json
+tsconfig.base.json
