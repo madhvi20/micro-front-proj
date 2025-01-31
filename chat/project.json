@@ -11,7 +11,7 @@
       "defaultConfiguration": "production",
       "options": {
         "compiler": "babel",
-        "outputPath": "auto",
+        "outputPath": "dist/chat",
         "index": "chat/src/index.html",
         "baseHref": "/",
         "main": "chat/src/main.ts",
