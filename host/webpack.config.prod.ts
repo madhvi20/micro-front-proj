@@ -26,8 +26,8 @@ const prodConfig: ModuleFederationConfig = {
    */
 
   remotes: [
-    ['chat', 'https://micro-front-proj-tuwt.vercel.app/'],
-    ['email', 'https://micro-front-proj-37bb-alpha.vercel.app/'],
+    ['chat', 'https://micro-front-proj-3f9u.vercel.app/'],
+    ['email', 'https://micro-front-proj-2qpm.vercel.app/'],
     // ['chat', 'https://chat.vercel.app/remoteEntry.js'],
     // ['email', 'https://email.vercel.app/remoteEntry.js'],
   ],
